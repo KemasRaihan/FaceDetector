@@ -1,2 +1,2 @@
 # FaceDetector
-Image classification to detect human faces in images using different machine learning models.
+Image classification system to detect human faces in images using different machine learning models.
